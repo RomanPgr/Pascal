@@ -1,0 +1,7 @@
+Start in sequence: 36
+End in sequence: 41
+Starting line number: 1
+Sequence number per line: 47
+The line number of the end: 1
+Sequence number per line: 52
+The sequence of the gene: auguaa
